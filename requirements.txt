@@ -1,0 +1,4 @@
+requests==2.26.0
+socket==2021.5.30
+subprocess32==3.7.4
+
